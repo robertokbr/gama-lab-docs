@@ -14,4 +14,8 @@
 
 - git checkout -b <nome da branch> => criar a minha branch
 
+    - feat => funcionalidade
+    - hotfix => resolver bug
+    - refactor => reescrever codigo pra melhor
+
 
