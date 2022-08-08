@@ -12,3 +12,6 @@
 
 | [<img src="https://avatars.githubusercontent.com/u/90662162?v=4" width="115"><br><sub>@andradeju</sub>](https://github.com/andradeju) |
 | :---: |
+
+| [<img src="https://avatars.githubusercontent.com/u/57429275?v=4" width="115"><br><sub>@sottjr</sub>](https://github.com/sottjr) |
+| :---: |
