@@ -3,3 +3,8 @@ const main = () => {
 }
 
 main();
+
+
+const callTechLead = () => {
+    console.log('calling tech lead');
+}
