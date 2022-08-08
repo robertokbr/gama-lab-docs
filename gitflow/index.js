@@ -7,4 +7,4 @@ const main = () => {
     return callTechLead();
 }
 
-main();
+module.exports = main;
