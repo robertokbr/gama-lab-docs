@@ -15,3 +15,6 @@
 
 | [<img src="https://avatars.githubusercontent.com/u/57429275?v=4" width="115"><br><sub>@sottjr</sub>](https://github.com/sottjr) |
 | :---: |
+
+| [<img src="https://avatars.githubusercontent.com/u/97199346?v=4" width="115"><br><sub>@EnioSFilho</sub>](https://github.com/EnioSFilho) |
+| :---: |
