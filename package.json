@@ -1,0 +1,11 @@
+{
+  "name": "gama-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robertokbr/gama-lab-ex.git",
+  "author": "robkbr <roberto.junior@nickelpay.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
