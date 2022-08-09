@@ -3,7 +3,7 @@ const callTechLead = () => {
 }
 
 const main = () => {
-    console.log('hello mundo cruel');
+    console.log('hello world');
     return callTechLead();
 }
 
