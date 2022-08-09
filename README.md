@@ -20,5 +20,8 @@
 | [<img src="https://avatars.githubusercontent.com/u/97199346?v=4" width="115"><br><sub>@EnioSFilho</sub>](https://github.com/EnioSFilho) |
 | :---: |
 
+| [<img src="https://avatars.githubusercontent.com/u/93981479?v=4" width="115"><br><sub>@karennabarrete</sub>](https://github.com/karennabarrete) |
+| :---: |
+
 | [<img src="https://avatars.githubusercontent.com/u/94011078?v=4" width="115"><br><sub>@thewillian</sub>](https://github.com/thewillian) |
 | :---: |
