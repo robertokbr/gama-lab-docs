@@ -1,5 +1,6 @@
 # Gama Lab Tech Experience SQUAD 1 
 - [x] [Git flow](./gitflow/README.md) - 08-08-2022.
+- [x] [Architecture](./architecture/README.md) - 09-08-2022.
 
 ## Contributors
 
@@ -20,4 +21,7 @@
 | :---: |
 
 | [<img src="https://avatars.githubusercontent.com/u/93981479?v=4" width="115"><br><sub>@karennabarrete</sub>](https://github.com/karennabarrete) |
+| :---: |
+
+| [<img src="https://avatars.githubusercontent.com/u/94011078?v=4" width="115"><br><sub>@thewillian</sub>](https://github.com/thewillian) |
 | :---: |
