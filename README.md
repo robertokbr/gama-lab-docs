@@ -1,5 +1,6 @@
 # Gama Lab Tech Experience SQUAD 1 
 - [x] [Git flow](./gitflow/README.md) - 08-08-2022.
+- [x] [Architecture](./architecture/README.md) - 09-08-2022.
 
 ## Contributors
 
