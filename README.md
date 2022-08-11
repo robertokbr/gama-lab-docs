@@ -25,3 +25,6 @@
 
 | [<img src="https://avatars.githubusercontent.com/u/94011078?v=4" width="115"><br><sub>@thewillian</sub>](https://github.com/thewillian) |
 | :---: |
+
+| [<img src="https://avatars.githubusercontent.com/u/100455051?v=4" width="115"><br><sub>@DEVergueiro</sub>](https://github.com/DEVergueiro) |
+| :---: |
